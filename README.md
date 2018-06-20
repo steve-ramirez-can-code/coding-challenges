@@ -1,4 +1,4 @@
-# Coding-Challenges
+# Coding-Challenges (Cycle Through The Branches)
 
 Here you'll be able to find all of my solutions for coding challenges that I've been asked or that I've done myself.
 
